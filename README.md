@@ -1,5 +1,8 @@
 # :wave: The Basics of GitHub 
 
+### Note: this is written in Markdown, a text renderer that aims to be easily readable in both its rendered version and the raw text.
+
+
 ## 🤓 Course overview and learning outcomes 
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
