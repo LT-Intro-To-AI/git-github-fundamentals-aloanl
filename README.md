@@ -1,6 +1,6 @@
 # :wave: The Basics of GitHub 
 
-### Note: this is written in Markdown, a text renderer that aims to be easily readable in both its rendered version and the raw text.
+### Note: this is written in Markdown, a text standard that aims to be easily readable in both its rendered version and the raw text.
 
 
 ## 🤓 Course overview and learning outcomes 
